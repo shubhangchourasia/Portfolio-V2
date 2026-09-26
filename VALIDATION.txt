@@ -1,0 +1,8 @@
+Validated homepage and all three case studies at 320, 390, 768 and 1440 pixels in light and dark themes.
+All local assets and fragment links resolve. All project images decode.
+No JavaScript errors. Mobile navigation, persistent theme selection, current-year labels, and floating back-to-top behavior verified.
+Contact form removed. LinkedIn, email and GitHub links present. Resume marked Coming soon.
+External account pages and email delivery are not tested.
+Dark project artwork: verified all three images decode and switch correctly at 390px and 1440px, including after reload with a saved dark theme.
+
+SEO: all four pages verified for unique metadata, canonical URLs, social image paths, valid JSON-LD, one H1/main/header/footer, image alt attributes, local links, and responsive layout. Homepage content visible with JavaScript disabled. Public crawler previews and search-engine verification require deployment.
