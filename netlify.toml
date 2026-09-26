@@ -9,18 +9,18 @@
 
 [[redirects]]
   from = "/case-studies/school-erp.html"
-  to = "/case-studies/school-erp/"
+  to = "/case-studies/school-erp"
   status = 301
   force = true
 
 [[redirects]]
   from = "/case-studies/american-tamil.html"
-  to = "/case-studies/american-tamil/"
+  to = "/case-studies/american-tamil"
   status = 301
   force = true
 
 [[redirects]]
   from = "/case-studies/picxilens.html"
-  to = "/case-studies/picxilens/"
+  to = "/case-studies/picxilens"
   status = 301
   force = true

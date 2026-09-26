@@ -26,4 +26,4 @@ Asset organization:
 
 - assets/documents: downloadable resume PDF
 
-Case studies use clean trailing-slash URLs. Old .html links redirect permanently to those URLs.
+Case studies use clean extensionless URLs. Old .html links redirect permanently to those URLs.
