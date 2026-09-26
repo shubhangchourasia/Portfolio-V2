@@ -1,10 +1,10 @@
 # Shubhang Portfolio
 
-Open index.html locally or upload this complete directory to a static host. No build step or external dependencies are needed.
+Deploy this complete directory to Netlify; clean case-study routes require its routing. No build step or external dependencies are needed.
 
 Includes the homepage, three standalone case studies, optimized approved project illustrations, SVG navbar logo, SVG/PNG/ICO favicons, and light/dark themes.
 
-The combined About and Contact section links to LinkedIn, GitHub and shubhangc99@gmail.com. There is no contact form. Resume remains marked Coming soon until a file or URL is supplied.
+The combined About and Contact section links to LinkedIn, GitHub and shubhangc99@gmail.com. There is no contact form. The Resume button downloads assets/documents/Resume_Shubhang_Chourasia.pdf.
 
 Footer and product-engineer.ts years use the visitor's current year through JavaScript. Career dates are historical content and remain fixed.
 
@@ -23,3 +23,7 @@ Asset organization:
 - assets/images/projects: light and dark project artwork
 - assets/images/social: social-sharing previews
 - assets/images: profile photo
+
+- assets/documents: downloadable resume PDF
+
+Case studies use clean trailing-slash URLs. Old .html links redirect permanently to those URLs.
